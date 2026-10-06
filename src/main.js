@@ -1,4 +1,4 @@
-import "./style.css";
+git remote add origin https://github.com/mangirrr/pelatihanenuma_matay.gitimport "./style.css";
 
 const studentIds = [
     "student-001",
